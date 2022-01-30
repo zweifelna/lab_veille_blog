@@ -4,7 +4,7 @@ date: 2022-01-13T15:46:49+01:00
 draft: false
 author: Nathan Zweifel
 description: "Comprendre les différences entre ces trois concepts clés."
-#featuredImage: "IMG_20210812_122248.jpg"
+featuredImage: "https://github.com/zweifelna/lab_veille_blog/blob/master/content/posts/img/cov_5.png?raw=true"
 tags: ["Application", "Processus", "Haute-fidélité", "Mobile", "Interface"]
 categories: ["Présentations de prototype", "Processus de prototypage"]
 ---

@@ -4,7 +4,7 @@ date: 2022-01-07T15:46:49+01:00
 draft: false
 author: Nathan Zweifel
 description: "Quelques explications sur les différentes façons de prototyper en UX."
-#featuredImage: "IMG_20210812_122248.jpg"
+featuredImage: "https://github.com/zweifelna/lab_veille_blog/blob/master/content/posts/img/cov_2.jpeg?raw=true"
 tags: ["Prototype papier", "Haute-fidélité", "Basse-fidélité"]
 categories: ["Outils de prototypage", "Prototypes statiques", "Prototypes interactifs"]
 ---

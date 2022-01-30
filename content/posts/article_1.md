@@ -4,13 +4,14 @@ date: 2022-01-05T15:46:49+01:00
 draft: false
 author: Nathan Zweifel
 description: "Quelques explications sur les prototypes en UX."
-#featuredImage: "cov_1.jpg"
+featuredImage: "https://github.com/zweifelna/lab_veille_blog/blob/master/content/posts/img/cov_1.jpg?raw=true"
 tags: ["Prototype papier", "Processus"]
 categories: ["Processus de prototypage", "Outils de prototypage"]
 ---
 
 Les meilleures expériences et interfaces n’arrivent pas par hasard : elles sont le fruit de beaucoup de travail en amont, incluant de la recherche utilisateur, des tests et des itérations (plus ou moins nombreuses). Lors de la présentation du travail effectué en UX à des externes, il est important de comprendre leur raison d’être et leurs avantages.
 Les façons de faire sont multiples, mais cela inclut les esquisses papier, les wireframes et différents prototypes (haute et basse fidélité).
+
 # Qu’est-ce qu’un prototype ?
 Les prototypes UX ont la même origine que les prototypes de machines ou autres inventions. Ils ont pour but le test d’un produit en minimisant les coûts de fabrication. Cela permet notamment de pouvoir facilement revenir le modifier sans grosses charges.
 Les prototypes nous offrent donc la possibilité de voir rapidement les problèmes et défaillances potentiels, tout en réduisant les coûts qui pourraient subvenir en devant modifier un produit en production.
