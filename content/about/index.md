@@ -23,7 +23,7 @@ Je suis personnellement plus tourné vers l'`expérience utilisateur` et le `des
 À travers mon rôle de `responsable scout`, je développe mon leadership et ma passion d'`aider les autres`. En effet, je m'occupe de 5 adultes et une trentaine d'enfants dans la gestion des activités, du matériel et de la sécurité, le tout `bénévolement`.
 
 Passionné par le web et l'expérience utilisateur, je suis notamment intéressé par les `interfaces originales et innovantes`, le domaine culturel et l'humanitaire. Étant très curieux et porté vers le design, j'ai énormément de livres à ce sujet, et je regarde beaucoup de vidéo dessus. Mes mandats pour l'EJE me permettent de développer mes compétences pour le domaine, en créant de nombreux `prototypes` d'interfaces, dans des domaines aussi variés que ces dernières.
-## Mon Ikigai 🎯
+### Mon Ikigai 🎯
 L'ikigai définit la raison d'être d'une personne. Il est déterminé d'après ses passions, sa vocation, etc. Après vous avoir donné toutes ces informations à mon sujet, il est temps d'en déduire le mien :
 
 Du côté de mes passions, j'apprécie travailler pour `transmettre et aider les autres`. Je me sens vraiment utile à partir du moment où je peux `apporter quelque chose` à une personne ou à la société.
@@ -33,3 +33,5 @@ Au niveau de ma formation et de mes mandats, j'essaie de `combiner ma curiosité
 
 C'est pourquoi mon ikigai me pousse à me concentrer sur mon futur métier d'`UX designer`, spécialisé dans le `prototypage d'interface` et la `recherche utilisateur`. Le fait de travailler à améliorer l'expérience et la vie des gens me donnent l'impression d'être utile et à ma place.
 
+## Mon blog 📔
+Mon blog est là pour partager ma passion pour le design d'interface, tout en montrant ses forces et ses faiblesses. N'hésitez pas à y [jeter un coup d'oeil](https://zweifelna.github.io/lab_veille_blog/).
